@@ -1,0 +1,25 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  color: red;
+  font-size: 70px;
+}
+
+p {
+  font-size: 36px;
+  color: purple;
+}
+
+p a {
+  color: purple;
+}
+
+#boba {
+  color: green;
+}
+
+.font-yellow {
+  color: yellow;
+}
